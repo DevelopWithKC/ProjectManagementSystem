@@ -1,3 +1,5 @@
+//Connect with actual database that resides on MongoDB Atlas
+
 const mongoose = require('mongoose');
 
 const connectDB = async () => {
